@@ -1,7 +1,10 @@
-## Olá! Eu sou o Elivaldo dos Santos 🖐️
-
-
+## Olá! Eu sou Elivaldo dos Santos 🖐️
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elivaldo-dos-santos-0a41a61b6/)
+
+#### Sobre mim
+Engenheiro por formação, em transição de carreira, atualmente em curso na Cubos Academy
+
+
 
 
 
@@ -17,7 +20,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Eu transformo a realidade por meio da tecnologia 
+ 
 
 ### Principais projetos:
 - [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
