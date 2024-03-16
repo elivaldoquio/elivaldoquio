@@ -23,5 +23,5 @@ Engenheiro por formação, em transição de carreira, atualmente em curso na Cu
  
 
 ### Principais projetos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
+- [Somatory](https://github.com/elivaldoquio/Somatory)<br/>
 
