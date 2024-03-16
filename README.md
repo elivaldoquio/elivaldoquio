@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elivaldo-dos-santos-0a41a61b6/)
 
 #### Sobre mim
-Engenheiro por formação, em transição de carreira, atualmente em curso na Cubos Academy
+Engenheiro por formação, em transição de carreira, atualmente em curso na Cubos Academy.
 
 
 
